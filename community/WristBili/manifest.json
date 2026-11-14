@@ -1,0 +1,15 @@
+{
+    "item": {
+        "name": "WristBili-腕上哔哩",
+        "description": "小米手环第三方哔哩哔哩客户端",
+        "preview": ["preview.png"],
+        "icon": "icon.png",
+        "author": [{"name": "Velvetine"}]
+    },
+    "downloads": {
+        "all": {
+            "version": "2.0.0",
+            "file_name": "WristBili.rpk"
+        }
+    }
+}
