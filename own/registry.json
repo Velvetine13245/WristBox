@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-11-15",
+  "resources": [
+    {
+      "id": "wristbili",
+      "name": "WristBili-腕上哔哩",
+      "author": "Velvetine",
+      "type": "quickapp",
+      "featured": true,
+      "repoUrl": "https://github.com/Velvetine13245/WristBox",
+      "subDir": "community/WristBili",
+      "path": "community/WristBili/manifest.json",
+      "icon": "community/WristBili/icon.png",
+      "cover": "community/WristBili/preview.png",
+      "devices": ["all"],
+      "tags": ["哔哩哔哩", "B站", "视频"],
+      "paidType": ""
+    }
+  ]
+}
